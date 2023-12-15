@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # `xmodmap -pk` to display keycodes
-# note: replace keyboard shortcuts for media
 
 # 67 F1
 # 68 F2
